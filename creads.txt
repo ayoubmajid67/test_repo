@@ -1,0 +1,6 @@
+username =myName
+password =myPassword
+email =myEmail
+#git config --global user.name "myName"
+#git config --global user.password "myPassword"
+#git config --global user.email "myEmail"

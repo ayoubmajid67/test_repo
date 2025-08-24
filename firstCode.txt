@@ -1,2 +1,3 @@
 Hello word !
 change the name of the course
+nice
